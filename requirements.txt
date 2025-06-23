@@ -1,5 +1,0 @@
-Flask
-pandas
-folium
-openpyxl
-gunicorn
